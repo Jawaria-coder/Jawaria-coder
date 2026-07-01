@@ -123,14 +123,11 @@ Building intelligent web applications with modern technologies and exploring the
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jawaria-coder&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jawaria-coder&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jawaria-coder&theme=github-dark&hide_border=true" />
 </p>
+
 ---
 
 # 🌐 Connect With Me
