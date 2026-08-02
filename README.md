@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jawaria Tariq</h1>
 
 <h3 align="center">
-Software Engineering Student • Full-Stack Developer • AI Enthusiast
+Machine Learning Engineer • Agentic AI Developer • Full-Stack Developer
 </h3>
 
 <p align="center">
-Building intelligent web applications with modern technologies and exploring the future of Artificial Intelligence.
+Building intelligent AI systems, automation workflows, and scalable software solutions.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=780&lines=Machine+Learning+Engineer;Building+Agentic+AI+Systems;LangGraph+•+LangChain+•+n8n;AI+Automation+Developer;Full-Stack+Developer;Always+Learning+Modern+AI" />
 </p>
 
 <p align="center">
@@ -30,15 +30,14 @@ Building intelligent web applications with modern technologies and exploring the
 
 # 👩‍💻 About Me
 
-- 🎓 Software Engineering Student at **COMSATS University Islamabad**
-- 🔭 Currently working on **Multi-Sense: A Web-Based AI-Powered Screening System for Autism & ADHD**
-- 🧠 Detecting **Autism** using **image analysis** and **questionnaires**, and **ADHD** using **behavioral questionnaires**
-- 🌱 Currently learning **AI Agents, Large Language Models (LLMs), n8n, and Intelligent Automation**
-- 💻 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and **Problem Solving**
-- 🤝 Open to collaborating on **AI**, **Web Development**, and **Open Source** projects
-- 💬 Ask me about **React, Next.js, Node.js, JavaScript, Python, Java, C++, MongoDB, SQL, Pandas, NumPy, OOP, and DSA**
+- 🤖 Building **Agentic AI systems, AI automation workflows, and LLM-powered applications**
+- 🧠 Developing **MultiSense**, a multimodal AI platform for ASD & ADHD screening
+- 🌱 Currently learning **RAG, Vector Databases, MCP, and Advanced AI System Design**
+- 💻 Interested in **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**
+- 🚀 Passionate about solving real-world problems through intelligent software
+- 🤝 Open to collaborating on **AI, Machine Learning, Automation, and Open Source** projects
+- 💬 Ask me about **Python, LangGraph, LangChain, n8n, LLMs, Machine Learning, Computer Vision, React, Next.js, Node.js, Express, MongoDB, SQL, and JavaScript**
 - 📫 Reach me at **jaru.jawaria@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into real-world applications through code.**
 
 ---
 
@@ -47,16 +46,29 @@ Building intelligent web applications with modern technologies and exploring the
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
 </p>
 
-### ⚛️ Frontend
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
 </p>
 
-### 🔧 Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -68,16 +80,6 @@ Building intelligent web applications with modern technologies and exploring the
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 📊 Data Science & AI
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-0A66C2?style=for-the-badge"/>
-</p>
-
 ### 🛠️ Tools & Technologies
 
 <p>
@@ -86,46 +88,47 @@ Building intelligent web applications with modern technologies and exploring the
 
 ---
 
-# 📚 Core Computer Science
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- Database Management Systems (DBMS)
-- Operating Systems
-- Software Engineering
-- Human Computer Interaction (HCI)
-- Computer Networks
-
----
-
 # 🚀 Featured Projects
 
-### 🧠 Multi-Sense
-**A Web-Based AI-Powered Screening System for Autism & ADHD**
+## 🧠 MultiSense
 
-- AI-assisted Autism screening using image analysis and questionnaires
-- ADHD screening using validated questionnaires
-- Intelligent and user-friendly web platform
-- Built as Final Year Project
+A full-stack AI platform for multimodal ASD and ADHD screening using facial image analysis and validated questionnaire-based assessments.
+
+**Highlights**
+- 🤖 Vision Transformer (ViTASD) for facial image-based autism screening
+- 📋 Q-CHAT-10 & AQ-10 questionnaire-based autism assessment
+- 🧩 AI model for ADHD screening using behavioral questionnaires
+- 🌐 Full-stack web platform with secure authentication and interactive dashboards
 
 ---
 
-### 🌐 Other Projects
+## 🤖 AI Venture Review Board
 
-- 💼 Portfolio Website
-- 🩺 Vibe Guard – Health Monitoring System
-- 💰 Expenso
-- 🔐 SafeSync
-- 🛒 UniWorth
-- 📱 Additional web development and programming projects available in my repositories.
+A multi-agent startup evaluation system built with **LangGraph**, featuring parallel AI agents, tool calling, human-in-the-loop review, memory, and structured report generation.
+
+---
+
+## 🔍 AI Opportunity Radar
+
+An intelligent **n8n automation workflow** that discovers, validates, scores, and organizes opportunities using AI agents, Tavily Search, and structured outputs.
+
+---
+
+## 🌐 Portfolio Website
+
+A personal portfolio showcasing my projects, technical skills, experience, and journey in AI, Machine Learning, Automation, and Full-Stack Development.
 
 ---
 
 # 📈 GitHub Stats
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jawaria-coder&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawaria-coder&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jawaria-coder&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Jawaria-coder&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -133,7 +136,8 @@ Building intelligent web applications with modern technologies and exploring the
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jawaria-tariq-jaru/" target="blank">
+
+<a href="https://www.linkedin.com/in/jawaria-tariq-jaru/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -144,14 +148,15 @@ Building intelligent web applications with modern technologies and exploring the
 <a href="https://jawaria-portfolio-theta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*"Code. Learn. Build. Repeat."* 🚀
+*"Learning by building intelligent systems."* 🚀
 
 </div>
